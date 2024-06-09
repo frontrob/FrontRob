@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Estudante de  Front-end<br>🔭 Estou a procura de um estagio<br>
+💬 Sou um desenvolvedor web iniciante, mas com uma sólida base teórica e prática adquirida ao longo dos meus estudos e dedicação. Embora eu ainda não tenha experiência formal em empregos na área, meu portfólio é repleto de projetos que demonstram minha capacidade e paixão pelo desenvolvimento web.<br>
 
 
 ## 🌐 Socials:
